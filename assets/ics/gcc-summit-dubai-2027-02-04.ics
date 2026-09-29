@@ -5,12 +5,26 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:gcc-summit-dubai-2027-02-04@gccpros.com
-DTSTAMP:20260924T000000Z
+DTSTAMP:20260929T000000Z
+SEQUENCE:1
 DTSTART:20270204T050000Z
 DTEND:20270204T140000Z
-SUMMARY:The GCCPROs Global Summit, Dubai
+SUMMARY:The GCCPROs Global Summit, Dubai (day 1 of 2)
 LOCATION:Dubai, United Arab Emirates
-DESCRIPTION:The first global edition of the GCCPROs summit, from 9:00 AM Gulf time. By invitation. Details: https://www.gccpros.com/gcc-summit-dubai-2027
+DESCRIPTION:The first global edition of the GCCPROs summit, over two days from 9:00 AM Gulf time. By invitation. Details: https://www.gccpros.com/gcc-summit-dubai-2027
+URL:https://www.gccpros.com/event
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:gcc-summit-dubai-2027-02-05@gccpros.com
+DTSTAMP:20260929T000000Z
+SEQUENCE:0
+DTSTART:20270205T050000Z
+DTEND:20270205T140000Z
+SUMMARY:The GCCPROs Global Summit, Dubai (day 2 of 2)
+LOCATION:Dubai, United Arab Emirates
+DESCRIPTION:The first global edition of the GCCPROs summit, over two days from 9:00 AM Gulf time. By invitation. Details: https://www.gccpros.com/gcc-summit-dubai-2027
 URL:https://www.gccpros.com/event
 STATUS:CONFIRMED
 TRANSP:OPAQUE
